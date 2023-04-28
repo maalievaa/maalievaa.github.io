@@ -33,6 +33,88 @@
     </item>
     
     <item>
+      <title>Обзор операций над директориями и методов реализации директорий в файловых системах</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;h2 id=&#34;структура-файловых-систем&#34;&gt;Структура файловых систем&lt;/h2&gt;
+&lt;p&gt;В данной теме необходимо начать с файловой системы и её структуры. Файловая система – инструмент, позволяющий операционной системе и программам обращаться к нужным файлам и работать с ними. Основные функции файловой системы:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Фрагментация файлов и их распределение на носителе&lt;/li&gt;
+&lt;li&gt;Поиск файла по запросу программ&lt;/li&gt;
+&lt;li&gt;Участие в создании, чтении и удалении файлов&lt;/li&gt;
+&lt;li&gt;Работа с атрибутами файлов: изменение названия, размера, времени последнего изменения, доступ к файлу и многое другое&lt;/li&gt;
+&lt;li&gt;Каталогизация и организация файлов&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Структура служебных данных файловой системы, например Unix, на одном из разделов диска может состоять из четырех основных частей. В начале раздела находится суперблок, который содержит в себе описание файловой системы (так, там содержится информация о типе файловой системы, о размере файловой системы в блоках и так далее). Наличие второго блока позволяет обращаться к данным на диске как к полноценной файловой системе, а не как к некоторой последовательности блоков. Массив индексных узлов (третий блок) содержит список индексов, соответствующих файлам данной файловой системы, размер этого массива определяется при установке системы, а максимальное количество файлов, которые могут быть созданы в файловой системе, определяется числом доступных индексных узлов. В блоках данных хранятся файлы и директории.&lt;/p&gt;
+&lt;h2 id=&#34;что-такое-директория&#34;&gt;Что такое директория?&lt;/h2&gt;
+&lt;p&gt;Иногда понятие директории путают с понятием обычного файла, но файл — это информационный блок, имеющий собственное имя, логическое представление и уникальный набор атрибутов. А директория - файл, имеющий вид таблицы и хранящий список входящих в него директорий и файлов, она служит для поддержания древовидной структуры файловой системы.&lt;/p&gt;
+&lt;h2 id=&#34;обзор-операций-над-директориями&#34;&gt;Обзор операций над директориями&lt;/h2&gt;
+&lt;p&gt;Совокупность операций для управления директориями зависит от особенностей конкретной ОС. Рассмотрим в качестве примера некоторые системные вызовы, которые необходимы в работе:
+• Создание директории
+Для создания директорий в Linux используется команда mkdir
+• Удаление директории
+Для удаления можно использовать две команды: rmdir, если директория пуста и rm, если необходимо удалить указанную директорию вместе со всеми вложенными файлами и директориями
+• Открытие директории для последующего чтения
+С помощью команды ls мы можем просмотреть содержимое директории
+• Переименование
+Имена директорий можно менять, как и имена файлов. Для этого может быть использована команда mv, после которой указывается текущее наименование директории, а затем новое наименование.
+• Создание файла
+При создании нового файла необходимо добавить в каталог соответствующий элемент. С помощью команды touch можно создать новый файл в директории.
+• Удаление файла из директории
+Стоит отметить, что если удаляемый файл присутствует только в одной директории, то он в целом удаляется из файловой системы, в другом случае система ограничивается только удалением указанной записи. Для удаления файлов используется команда rm.&lt;/p&gt;
+&lt;h2 id=&#34;методы-реализации-директории-в-файловой-системе&#34;&gt;Методы реализации директории в файловой системе&lt;/h2&gt;
+&lt;p&gt;Для доступа к файлу ОС использует путь, который сообщил ей пользователь. Запись в директории связывает имя файла (или имя поддиректории) с блоками данных на диске В зависимости от способа выделения файлу блоков диска эта ссылка может быть номером первого блока или номером индексного узла. В любом случае обеспечивается связь символьного имени файла с данными на диске.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе</title>
+      <link>https://example.com/post/post4/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post4/</guid>
+      <description>&lt;h2 id=&#34;цели&#34;&gt;Цели&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Выполнить 12 лабораторную работу по ОС&lt;/li&gt;
+&lt;li&gt;Выполнить четвертый и пятый этапы индивидуального проекта&lt;/li&gt;
+&lt;li&gt;Подготовиться к контрольной по математической логике&lt;/li&gt;
+&lt;li&gt;Выполнить задания по технологии программирования&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;как-прошла-моя-неделя&#34;&gt;Как прошла моя неделя?&lt;/h2&gt;
+&lt;p&gt;Неделя прошла достаточно продуктивно. В понедельник были дистанционные занятия, я успела немного прогуляться, сделать домашнее задание по математическому анализу и приготовить вкусный ужин!! Даже успела выйти на пробежку и сделать растяжку! Во вторник я сделала 12 лабораторную работу по операционным системам, она мне показалась достаточно интересной. Затем я также успела выполнить пятый этап проекта по ОС. Планирую также успеть сделать и шестой этап прокта, а также начать выполнение внешнего курса. Сегодня вечером хочу успеть прогуляться и посмотреть свой любимый сериал!&lt;/p&gt;
+&lt;h2 id=&#34;результаты&#34;&gt;Результаты&lt;/h2&gt;
+&lt;p&gt;Удалось выполнить все поставленные задачи!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://example.com/post/programming-languages/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/programming-languages/</guid>
+      <description>&lt;h2 id=&#34;языки-научного-программирования&#34;&gt;Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Программирование часто упоминают в прикладном контексте. Кажется, с его помощью создают только мобильные приложения, интернет-системы и спецэффекты для кино. Но первоначально программирование предназначалось для решения научных задач. Кроме того, программирование само — наука, узнать о которой будет полезно тем, кто решил связать карьеру с компьютерной разработкой.&lt;/p&gt;
+&lt;p&gt;Научное программирование — высокоориентированный стиль программирования для научных расчетов. От других видов программирования его отличают предельные корректность и стабильность конечного продукта, строгое разделение научной и интерфейсной частей, индивидуальность алгоритмов, а также преобладание эффективности над универсальностью.&lt;/p&gt;
+&lt;p&gt;Научное программирование лежит в основе любого современного глобального исследования. Все передовые технологии — от квантовых компьютеров до космических программ — были бы невозможны без специалистов в области научного программирования, способных предоставить ученым надежный и точный инструмент для совершения открытий.&lt;/p&gt;
+&lt;p&gt;Рассмотрим несколько языков:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Bash
+Сценарии командной оболочки Unix, созданные Кеном Томпсоном в начале 1970-х годов, тесно связаны с языком программирования C. Bash — обновленная оболочка Unix — была впервые выпущена в конце 80-х годов и до сих пор активно разрабатывается. На Bash обычно пишутся сценарии конфигурации сервера, поэтому это хороший выбор для работы в современных облачных средах с контейнерным хранением и микросервисами. Скрипты командной оболочки используются достаточно часто, так что знание этого языка пригодится. Также стоит обратить внимание на zsh, который в настоящее время является оболочкой по умолчанию в macOS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;COBOL
+Один из старейших языков, используемых до сих пор, был создан Грейс Хоппер в конце 1950-х годов и предназначался для стандартизации разработки крупномасштабных бизнес-приложений на компьютерах. Блестящая концепция, которая до сих пор применяется в кроссплатформенных SDK. Через системы COBOL проходят невероятные 95% транзакций ATM, причем многие из этих устройств работают круглосуточно 365 дней в году. Такие поставщики устройств, как IBM, разрабатывают более мощные машины, предназначенные для COBOL, но продолжают обслуживать и обновлять существующие системы из-за затрат и рисков, связанных с их заменой. В ближайшее время COBOL никуда не уйдет. Это хороший выбор для тех, кто хочет работать с клиентами из финансовой сферы.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;C/C++
+Эти языки часто занимают вершины различных рейтингов — их ценят за мощность и быстродействие. C был создан в начале 1970-х годов Деннисом Ритчи, C ++ в 1985 году разработал Бьёрн Страуструп. Сегодня два этих языка лежат в основе всего: от ОС и игр до современных научных вычислений и машинного обучения. C и C++ хорошо подходят для требовательных приложений, которым важны низкоуровневый доступ к оборудованию и производительность. Для освоения этих языков нужно время и определенные усилия.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Оформление отчёта</title>
       <link>https://example.com/post/reports/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
@@ -284,27 +366,6 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
-      <description></description>
     </item>
     
     <item>
