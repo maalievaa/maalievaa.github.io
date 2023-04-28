@@ -1,7 +1,7 @@
 {
-  "name": "Alieva Milena",
-  "short_name": "Alieva Milena",
-  "lang": "en-us",
+  "name": "Алиева Милена",
+  "short_name": "Алиева Милена",
+  "lang": "ru-ru",
   "theme_color": "#1565c0",
   "background_color": "#1565c0",
   "icons": [{
@@ -14,5 +14,5 @@
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/?utm_source=web_app_manifest"
+  "start_url": "/ru/?utm_source=web_app_manifest"
 }
