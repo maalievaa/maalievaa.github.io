@@ -5,12 +5,461 @@
     <link>https://maalievaa.github.io/</link>
       <atom:link href="https://maalievaa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alieva Milena</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maalievaa.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Alieva Milena</title>
       <link>https://maalievaa.github.io/</link>
     </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://maalievaa.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating presentations</title>
+      <link>https://maalievaa.github.io/post/presentations/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/post/presentations/</guid>
+      <description>&lt;h2 id=&#34;creating-presentations&#34;&gt;Creating presentations&lt;/h2&gt;
+&lt;p&gt;A good presentation helps to understand the speaker, and a bad one only bores you. You know this if you defended your diploma at a university or listened to colleagues speak at a meeting. Unfortunately, there are more bad presentations.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s very easy to distinguish a good presentation: it helps to keep the listeners&amp;rsquo; attention. In a bad presentation, everything is in a heap: the eyes scatter over bright slides, the brain tries to process the text, and at this time the speaker mumbles something about his own.&lt;/p&gt;
+&lt;p&gt;To make a good presentation, you don&amp;rsquo;t need to be able to draw, own Photoshop and spend hours assembling slides. A good presentation is a clear presentation and a good presentation first of all. This works equally in public speeches and presentations on websites.&lt;/p&gt;
+&lt;p&gt;It is recommended that when selecting the material, immediately formulate those words or phrases that will be put on the slides. It is easy to implement this in the form of a table, where in the left column there will be information that will be conveyed to the audience orally, and in the right – materials for slides (texts, illustrations, diagrams, etc.).&lt;/p&gt;
+&lt;p&gt;Here are a few possible steps to create a presentation:&lt;/p&gt;
+&lt;p&gt;Stage 1. Statement of the purpose of the presentation&lt;/p&gt;
+&lt;p&gt;In order to get the maximum benefit from showing the presentation, the goal must be realistic and expressed in one sentence. Usually the purpose of the educational presentation coincides with the purpose of the lesson.&lt;/p&gt;
+&lt;p&gt;Stage 2. Collection and systematization of material&lt;/p&gt;
+&lt;p&gt;At this stage, it is very important not to overdo it – the material, of course, should be enough for the presentation, but remember that only the most important information should be presented on the slides.&lt;/p&gt;
+&lt;p&gt;Stage 3. Development of the presentation concept&lt;/p&gt;
+&lt;p&gt;At this stage, it is decided which type of presentation will be used (the classifications discussed earlier can be used as a basis). For example, you decide that the presentation will be linear and made in the Microsoft PowerPoint program – in this case, the available material must be arranged in such a way that the logic of the presentation is clearly visible, and the presentation itself is aimed at achieving a specific pedagogical goal.&lt;/p&gt;
+&lt;p&gt;Stage 4. Creating a presentation design&lt;/p&gt;
+&lt;p&gt;When creating the first presentations, you can limit yourself to choosing ready-made templates, later you need to come up with your own style for presentations. At this stage, it is necessary to decide which colors will prevail in the presentation, what will be the transitions between slides, etc.&lt;/p&gt;
+&lt;p&gt;Usually visually distinguish: title, main / content, slide separator (used for visual separation of presentation blocks) and final slides.&lt;/p&gt;
+&lt;p&gt;Stage 5. Content of the presentation&lt;/p&gt;
+&lt;p&gt;It is necessary to transfer materials from the second column of the table to the slides (see stage 2). Remember that in addition to the main material, slides should have headings. If you plan to use additional graphic materials (for example, arrow icons, asterisks, etc.), then at this stage you need to add them to the slides.&lt;/p&gt;
+&lt;p&gt;Stage 6. Optimization of texts and graphics&lt;/p&gt;
+&lt;p&gt;Stage 7. Layout of slides&lt;/p&gt;
+&lt;p&gt;The texts are assigned the same types of fonts and colors. The headings and texts are aligned along the guides or grid (so that when moving from one slide to another, the texts do not &amp;ldquo;jump&amp;rdquo;, changing their positions). If necessary, animation effects are added to the presentation elements (they must be justified – for example, a gradual display of a diagram or stages).&lt;/p&gt;
+&lt;p&gt;Stage 8. Testing the presentation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week&#39;s post</title>
+      <link>https://maalievaa.github.io/post/post4/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/post/post4/</guid>
+      <description>&lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Perform 12 laboratory work on operating systems&lt;/li&gt;
+&lt;li&gt;Perform the fourth and fifth stages of an individual project&lt;/li&gt;
+&lt;li&gt;Prepare for a mathematical logic test&lt;/li&gt;
+&lt;li&gt;Complete tasks on programming technology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-my-week&#34;&gt;How was my week?&lt;/h2&gt;
+&lt;p&gt;The week passed quite productively. On Monday there were distance classes, I managed to take a little walk, do my homework on mathematical analysis and cook a delicious dinner!! I even managed to go out for a run and do a stretch! On Tuesday, I did 12 laboratory work on operating systems, it seemed quite interesting to me. Then I also managed to complete the fifth stage of the OS project. I also plan to have time to do the sixth stage of the project, as well as start the implementation of the external course. Tonight I want to have time to take a walk and watch my favorite TV series!&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;It was possible to complete all the tasks!m a&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview of directory operations and methods for implementing directories in file systems</title>
+      <link>https://maalievaa.github.io/project/example/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/project/example/</guid>
+      <description>&lt;h2 id=&#34;structure-of-file-systems&#34;&gt;Structure of file systems&lt;/h2&gt;
+&lt;p&gt;In this topic, you need to start with the file system and its structure. A file system is a tool that allows the operating system and programs to access and work with the necessary files. The main functions of the file system:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Fragmentation of files and their distribution on the media&lt;/li&gt;
+&lt;li&gt;Search for a file at the request of programs&lt;/li&gt;
+&lt;li&gt;Participation in creating, reading and deleting files&lt;/li&gt;
+&lt;li&gt;Working with file attributes: changing the name, size, last modified time, file access and much more&lt;/li&gt;
+&lt;li&gt;Cataloging and organizing files&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The structure of the service data of a file system, for example Unix, on one of the disk partitions can consist of four main parts. At the beginning of the section there is a superblock that contains a description of the file system (for example, it contains information about the type of file system, the size of the file system in blocks, and so on). The presence of the second block allows you to access the data on the disk as a full-fledged file system, and not as a sequence of blocks. The array of index nodes (the third block) contains a list of indexes corresponding to the files of this file system, the size of this array is determined during system installation, and the maximum number of files that can be created in the file system is determined by the number of available index nodes. Files and directories are stored in data blocks.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-a-directory&#34;&gt;What is a directory?&lt;/h2&gt;
+&lt;p&gt;Sometimes the concept of a directory is confused with the concept of a regular file, but a file is an information block that has its own name, logical representation and a unique set of attributes. A directory is a file that looks like a table and stores a list of its directories and files, it serves to maintain the tree structure of the file system.&lt;/p&gt;
+&lt;h2 id=&#34;overview-of-directory-operations&#34;&gt;Overview of directory operations&lt;/h2&gt;
+&lt;p&gt;The set of operations for managing directories depends on the specifics of a particular OS. Let&amp;rsquo;s consider as an example some system calls that are necessary in the work:
+• Creating a directory
+To create directories in Linux, the mkdir command is used
+• Deleting a directory
+To delete, you can use two commands: rmdir, if the directory is empty, and rm, if you need to delete the specified directory along with all attached files and directories
+• Opening a directory for later reading
+Using the ls command, we can view the contents of the directory
+• Renaming
+Directory names can be changed, as well as file names. To do this, the mv command can be used, after which the current name of the directory is indicated, and then the new name.
+• Creating a file
+When creating a new file, you need to add the appropriate element to the directory. Using the touch command, you can create a new file in the directory.
+• Deleting a file from a directory
+It is worth noting that if the deleted file is present only in one directory, then it is generally deleted from the file system, in another case, the system is limited only to deleting the specified entry. The rm command is used to delete files.&lt;/p&gt;
+&lt;h2 id=&#34;methods-of-implementing-a-directory-in-the-file-system&#34;&gt;Methods of implementing a directory in the file system&lt;/h2&gt;
+&lt;p&gt;To access the file, the OS uses the path that the user told it. A directory entry links the file name (or subdirectory name) to the data blocks on the disk, depending on how the disk blocks are allocated to the file, this link can be the number of the first block or the number of the index node. In any case, the symbolic file name is associated with the data on the disk.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://maalievaa.github.io/post/programming-languages/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/post/programming-languages/</guid>
+      <description>&lt;h2 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages&lt;/h2&gt;
+&lt;p&gt;Programming is often mentioned in an applied context. It seems that only mobile applications, Internet systems and special effects for movies are created with its help. But initially programming was intended for solving scientific problems. In addition, programming itself is a science, which will be useful to learn about for those who have decided to link a career with computer development.&lt;/p&gt;
+&lt;p&gt;Scientific programming is a highly oriented programming style for scientific calculations. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of the scientific and interface parts, the individuality of algorithms, as well as the predominance of efficiency over versatility.&lt;/p&gt;
+&lt;p&gt;Scientific programming is at the heart of any modern global research. All advanced technologies — from quantum computers to space programs — would be impossible without specialists in the field of scientific programming, able to provide scientists with a reliable and accurate tool for making discoveries.&lt;/p&gt;
+&lt;p&gt;Consider several languages:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Bash
+Unix shell scripts, created by Ken Thompson in the early 1970s, are closely related to the programming language C. Bash - an updated Unix shell — was first released in the late 80s and is still being actively developed. Server configuration scripts are usually written on Bash, so it is a good choice for working in modern cloud environments with container storage and microservices. Shell scripts are used quite often, so knowledge of this language will come in handy. It&amp;rsquo;s also worth paying attention to zsh, which is currently the default shell in macOS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;COBOL
+One of the oldest languages still in use was created by Grace Hopper in the late 1950s and was intended to standardize the development of large-scale business applications on computers. A brilliant concept that is still used in cross-platform SDKs. An incredible 95% of ATM transactions pass through COBOL systems, and many of these devices work around the clock 365 days a year. Device vendors such as IBM are developing more powerful machines designed for COBOL, but continue to maintain and update existing systems due to the costs and risks associated with replacing them. In the near future, COBOL will not go anywhere. This is a good choice for those who want to work with clients from the financial sector.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;C/C++
+These languages often occupy the tops of various ratings — they are valued for their power and speed. C was created in the early 1970s by Dennis Ritchie, C++ was developed by Bjorn Stroustrup in 1985. Today, these two languages underlie everything from OS and games to modern scientific computing and machine learning. C and C++ are well suited for demanding applications that need low-level hardware access and performance. It takes time and some effort to master these languages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design of the report</title>
+      <link>https://maalievaa.github.io/post/reports/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/post/reports/</guid>
+      <description>&lt;h2 id=&#34;design-of-the-report&#34;&gt;Design of the report&lt;/h2&gt;
+&lt;p&gt;The report is an opportunity to better immerse yourself in your work and analyze it better. We have a task and we record its completion in the form of a report on the work done. During training, students often make up such a document, it allows you to assess how well and how quickly the task is completed, and also makes you think about some patterns. Also, reports are often used while working in various companies, since an employee needs to report on the work done. The report may have different content - it all depends on the requirements that are put forward.
+So, for example, in such a discipline as &amp;ldquo;Operating Systems&amp;rdquo;, the report should include:
+• Title page with the number of the laboratory work and the full name of the student.
+• Formulation of the purpose of the work.
+• Description of the results of laboratory work:
+– description of the task being performed;
+– screenshots (screen shots) recording the completion of laboratory work tasks;
+– comments and conclusions on the results of the tasks.
+• Description of the results of the tasks for independent work:
+– description of the task being performed;
+– screenshots (screen shots) that capture the completion of tasks;
+– comments and conclusions on the results of the tasks.
+• Conclusions agreed upon for the purpose of the work.
+It is also worth noting that the report should be executed in several formats (md, docx, pdf). The md format allows you to convert both docx and pdf at once.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week&#39;s post</title>
+      <link>https://maalievaa.github.io/post/post3/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/post/post3/</guid>
+      <description>&lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Perform 12 and 13 laboratory work on operating systems&lt;/li&gt;
+&lt;li&gt;Perform the fourth stage of an individual project&lt;/li&gt;
+&lt;li&gt;A lot of walking on weekends&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-my-week&#34;&gt;How was my week?&lt;/h2&gt;
+&lt;p&gt;The week passed quite productively and easily. With the return of good weather, I started running again, and also spent the weekend quite actively - I walked a lot and looked at different streets of Moscow. I also took apart a topic on mathematical analysis at the weekend, now we are studying there finding the surface area of a body using an integral. The laboratory work on the Operating systems that I planned to do turned out to be done. Soon I will go to my hometown for the weekend, I hope that there will also be good weather, and I also dream of cuddling my red cat!! In general, good weather definitely improves mood and productivity, so everything is fine!&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;It was possible to complete all the tasks!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week&#39;s post</title>
+      <link>https://maalievaa.github.io/post/post2/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/post/post2/</guid>
+      <description>&lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Perform 9 laboratory work on operating systems&lt;/li&gt;
+&lt;li&gt;Perform the third stage of an individual project&lt;/li&gt;
+&lt;li&gt;Prepare for a mathematical logic test&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-my-week&#34;&gt;How was my week?&lt;/h2&gt;
+&lt;p&gt;The week passed quite productively. On Monday there were distance classes, I managed to take a little walk, do my homework on mathematical analysis and cook a delicious dinner!! On Tuesday, I did the 9th laboratory work on operating systems, it seemed quite interesting to me, there I worked with the emacs editor. Also in the evening I prepared for a test paper on mathematical logic and sorted out the last topic on analytical geometry. On Wednesday we had a test on mathematical logic, we have no results yet. Also on Wednesday, I started doing the third stage of an individual project. In the evening I took a little walk and watched my favorite TV series!&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;It was possible to complete all the tasks!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown Markup Language</title>
+      <link>https://maalievaa.github.io/post/markdown/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;markdown-markup-language&#34;&gt;Markdown Markup Language&lt;/h2&gt;
+&lt;p&gt;Markdown is a human—readable markup language that is transparently converted to HTML. It can be opened and modified in any text editor. It is widely used for writing documentations and README files. Markdown, or markdown, is a markup language for text documents. It allows you to create texts without using Word and other editors. The markup can be read and reproduced in any system or browser. Markdown was created by writer and blogger John Gruber together with web activist Aaron Schwartz. They wanted to come up with the simplest and most convenient markup language with which the text can be translated into a beautifully designed form. At the same time, the text must remain readable even without bringing it to a &amp;ldquo;beautiful&amp;rdquo; appearance. This turned out to be Markdown. It was created in 2004, but the language has gained the greatest popularity now. It is supported by a variety of blogging platforms, note-taking services, CMS and even messengers.&lt;/p&gt;
+&lt;p&gt;What is a markdown for?&lt;/p&gt;
+&lt;p&gt;• Quick formatting of the article for translation into PDF or so that it just looks beautiful without extra effort.
+• Layout of a text document for posting on the site, but without using HTML.
+• Writing documentation for the code.
+• Making notes in a personal digital notebook.
+• Writing beautiful messages in messengers&lt;/p&gt;
+&lt;p&gt;Here are some rules:&lt;/p&gt;
+&lt;p&gt;To create a title, use the # sign, for example:&lt;/p&gt;
+&lt;h1 id=&#34;this-is-heading-1--this-is-heading-2--this-is-heading-3--this-is-heading-4&#34;&gt;This is heading 1 ## This is heading 2 ### This is heading 3 #### This is heading 4&lt;/h1&gt;
+&lt;p&gt;To make the text bold, enclose it in double asterisks:
+This text is &lt;strong&gt;bold&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To set an italic font for the text, enclose it in single asterisks:
+This text is &lt;em&gt;italic&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;To set bold and italicized text, enclose it in triple asterisks:
+This is text is both &lt;em&gt;&lt;strong&gt;bold and italic&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Citation blocks are created using the &amp;gt; symbol.&lt;/p&gt;
+&lt;p&gt;Markdown supports both embedding code fragments into a sentence and placing them between sentences in the form of separate fenced blocks. Fenced code blocks are an easy way to highlight syntax for code snippets. The general format of the fenced code blocks is:
+&lt;code&gt;language your code goes in here &lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git Version control</title>
+      <link>https://maalievaa.github.io/post/git_versions/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/post/git_versions/</guid>
+      <description>&lt;h2 id=&#34;git-version-control&#34;&gt;Git Version control&lt;/h2&gt;
+&lt;p&gt;Version Control Systems (VCS) are used when several people work on one project. Usually, the main project tree is stored in a local or remote repository, to which access is configured for project participants. When making changes to the project content, the version control system allows you to fix them, combine changes made by different project participants, roll back to any earlier version of the project, if required. In classical version control systems, a centralized model is used, assuming the presence of a single repository for storing files. Most version control functions are performed by a special server. The project participant (user) receives the version of files he needs before starting work through certain commands. After making changes, the user places the new version in the repository. At the same time, previous versions are not deleted from the central repository and you can return to them at any time. The server can save not the full version of the modified files, but perform so-called delta compression — save only changes between successive versions, which reduces the amount of data stored. Version control systems support the ability to track and resolve conflicts that may arise when several people work on a single file. You can merge (merge) changes made by different participants (automatically or manually), manually select the desired version, cancel the changes altogether or lock files for modification. Depending on the settings, the lock does not allow other users to get a working copy or prevents changing the working copy of the file by means of the OS file system, thus providing privileged access to only one user working with the file. Version control systems can also provide additional, more flexible functionality. For example, they can support working with multiple versions of a single file, keeping a common history of changes up to the point of branching versions and their own change histories of each branch. In addition, information is usually available about which of the participants, when and what changes were made. Usually this kind of information is stored in the change log, access to which can be restricted. Unlike the classical ones, in distributed version control systems, a central repository is not mandatory. Among the classic VCS, the most famous are CVS, Subversion, and among the distributed ones — Git, Bazaar, Mercurial. The principles of their work are similar, they differ mainly in the syntax of the commands used in the work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week&#39;s post</title>
+      <link>https://maalievaa.github.io/post/post1/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/post/post1/</guid>
+      <description>&lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Perform 5 and 6 laboratory work on the OS&lt;/li&gt;
+&lt;li&gt;Do your homework on the basics of programming&lt;/li&gt;
+&lt;li&gt;Prepare for a mathematical analysis test&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-my-week&#34;&gt;How was my week?&lt;/h2&gt;
+&lt;p&gt;This week has passed easily enough. I was in my hometown - Tver, spent time with my family, we celebrated on March 8. Of the academic achievements, I managed to do 5 and 6 laboratory work on operating systems, they turned out to be simple, I coped relatively quickly. I also did programming in c++, did my homework, which was on the topic of single-linked lists and passed it. Also in the English language module we had a spring festival, I performed with my band with the song happy nation, we had quite a lot of fun!!&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;It was possible to complete all the tasks!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week&#39;s post</title>
+      <link>https://maalievaa.github.io/post/post5/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/post/post5/</guid>
+      <description>&lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Perform the sixth stage of an individual project on operating systems&lt;/li&gt;
+&lt;li&gt;Do your homework on programming technology&lt;/li&gt;
+&lt;li&gt;Study an external course on the basics of programming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-was-my-week&#34;&gt;How was my week?&lt;/h2&gt;
+&lt;p&gt;This week has passed easily enough. I was in my hometown - Tver, spent time with my family. From educational achievements, I managed to make the sixth stage of an individual project on operating systems, it was quite simple, but it took a long time. I have finally completed all the laboratory and all the stages of the project, I am sure that they were able to harden me and now I can work in Linux a little better. It remains to complete an external course on operating systems and there will be complete happiness in the form of pre-closed deadlines!!&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;It was possible to complete all the tasks!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://maalievaa.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://maalievaa.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://maalievaa.github.io/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://maalievaa.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://maalievaa.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maalievaa.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
